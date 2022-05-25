@@ -2,11 +2,14 @@
 Reminder to drink water 
 
 
-Download the script and run it in your preferred IDE
+Recommended you use PyCharm as your IDE. It alsos you to make a virtual enviroment very easily
 
-dont forget to install pync if you dont have it already
+or use VSC if you know what your doing (virtenv still recomended)
 
-**** pip install pync ****
+
+1. pip install pync
+2. Run the file
+
 
 
 
