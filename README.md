@@ -3,7 +3,8 @@ Reminder to drink water
 
 
 Recommended you use PyCharm as your IDE. It alsos you to make a virtual enviroment very easily
-https://www.jetbrains.com/pycharm/download/#section=mac
+https://www.jetbrains.com/pycharm/download/#section=windows
+
 
 or use VSC if you know what your doing (virtenv still recomended)
 
